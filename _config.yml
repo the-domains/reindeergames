@@ -1,0 +1,28 @@
+name: Reindeergames
+favicon: null
+layout_spectrum: 0.3687275687698275
+typography_spectrum: 0.9207863816991448
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.699336047982797
+  lightness: 0.09320019511505961
+  saturation: 0.32562105264514685
+  rhythmicContrast: 0.7252644833642989
+purpose: []
