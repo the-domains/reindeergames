@@ -1,7 +1,7 @@
 name: Reindeergames
 favicon: null
 layout_spectrum: 0.3687275687698275
-typography_spectrum: 0.9207863816991448
+typography_spectrum: 0.53658
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3E363F'
     - '#DD403A'
   brandStrength: 0.699336047982797
-  lightness: 0.09320019511505961
+  lightness: 0.375
   saturation: 0.32562105264514685
   rhythmicContrast: 0.7252644833642989
 purpose: []
