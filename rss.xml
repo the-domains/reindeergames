@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Reindeergames]]></title>
         <description><![CDATA[Reindeergames]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reindeergames/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 23:02:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 15:50:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reindeergames/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/509e78f9-59b8-4feb-9a03-9be01bfcdfb1.gif">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/509e78f9-59b8-4feb-9a03-9be01bfcdfb1.gif</link>
+            <guid isPermaLink="false">0454fc9f-81b9-41a2-9450-6f75456b52f3</guid>
+            <pubDate>Fri, 01 Jul 2016 15:50:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2be8ac2-b53a-4048-97c1-dcc29595f8e2.jpg">]]></description>
-            <link>undefined34f37d10-c1a9-473d-bed5-17170d551c62/index.html</link>
+            <link>https://thegrid.ai/reindeergames/34f37d10-c1a9-473d-bed5-17170d551c62/index.html</link>
             <guid isPermaLink="false">34f37d10-c1a9-473d-bed5-17170d551c62</guid>
             <pubDate>Sun, 24 Apr 2016 23:02:15 GMT</pubDate>
         </item>
